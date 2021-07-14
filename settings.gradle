@@ -1,0 +1,2 @@
+rootProject.name = "HeatMapApplication"
+include ':app'
